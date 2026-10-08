@@ -58,7 +58,7 @@ The Identity & Access Management (IAM) and Identity Directory sector is estimate
 
 ## 🔓 Open-Source GitHub Projects (Sorted by Stars)
 
-Open-source identity directory stores and self-hosted IAM platforms offer enterprise sovereignty, privacy compliance, and developer control. Below is a curated list of top open-source repositories **sorted in descending order by GitHub star count** 🌟.
+Open-source identity directory stores and self-hosted IAM platforms offer enterprise sovereignty, privacy compliance, and developer control. Below is a curated list of top open-source repositories **sorted in descending order by GitHub Stars_Count** 🌟.
 
 - **[Keycloak](https://github.com/keycloak/keycloak)** [![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) 🔑
   - **Open-source identity and access management solution** for modern applications and services, Apache-2.0 licensed.
